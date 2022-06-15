@@ -142,7 +142,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "**𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰 𝚂𝙴𝙲𝙾𝙽𝙳 💫🥺 𝙵𝙾𝚁 𝙿𝙻𝙰𝚈 𝚂𝙾𝙽𝙶 ❤️✨♩**"
+play_1 : "⚡"
 play_2 : "**🏷Channel Play Mode**\n\n**𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰 𝚂𝙴𝙲𝙾𝙽𝙳 💫🥺 𝙵𝙾𝚁 𝙿𝙻𝙰𝚈 𝚂𝙾𝙽𝙶 ❤️✨♩**\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
@@ -229,10 +229,10 @@ queue_4 : "**Music Added To Position **#{0}\n\n**SongName:** {1}\n**Duration:** 
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
-stream_1 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @ItzNobitaXD"
-stream_2 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @ItzNobitaXD"
-stream_3 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @ItzNobitaXD"
-stream_4 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @ItzNobitaXD"
+stream_1 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @vexerabots"
+stream_2 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @vexerabots"
+stream_3 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @vexerabots"
+stream_4 : "**Playing** \n\n**Added By:** {0}\n\n **This Bot Maintained by** @vexerabots"
 
 # Inline Buttons
 
